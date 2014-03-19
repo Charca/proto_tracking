@@ -1,0 +1,10 @@
+{
+  "name": "proto_tracking",
+  "version": "0.0.1",
+  "description": "Sandbox example of real-time mobile tracking",
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "express": "~3.4.8",
+    "express3-handlebars": "~0.5.0"
+  }
+}

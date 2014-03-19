@@ -1,0 +1,25 @@
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+p {
+  font-size: 300;
+}
+
+.canvas {
+  width: 320px;
+  height: 480px;
+  border: 6px solid #000;
+  border-radius: 3px;
+  margin: 0 auto;
+  background: #CCC;
+  position: relative;
+}
+
+.touch-indicator {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  background: #F00;
+}
